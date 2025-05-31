@@ -12,7 +12,7 @@
 
 *Mentor*: Neela Santosh
 
-This is a real-time collaborative code editor application built with React, Express, and Socket.io. It allows multiple users to join rooms and edit code together with live synchronization. The application includes user authentication and code execution.
+This real-time collaborative code editor application, built with React, Express, and Socket.io, enables multiple users to join rooms and edit code together with seamless live synchronization. It incorporates user authentication features, allowing for secure signup and login processes. The application supports distinct rooms for separate collaborative sessions, enhancing organization and teamwork. Additionally, it includes code execution capabilities, making it a versatile tool for developers. With a responsive and user-friendly interface, this application aims to provide an efficient and engaging coding experience for users.
 
 ## Features
 
@@ -75,5 +75,5 @@ The frontend will be available at `http://localhost:3000`.
 ### Screenshot 3
 ![Screenshot 3](./image3.png)
 
-
+-----
 Made by Rohit 🐱‍🏍
