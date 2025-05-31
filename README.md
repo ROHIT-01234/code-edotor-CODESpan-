@@ -63,5 +63,3 @@ The frontend will be available at `http://localhost:3000`.
 ### Screenshot 3
 ![Screenshot 3](./image3.png)
 
-## License
-
