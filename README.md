@@ -1,27 +1,5 @@
 # Realtime Code Editor
 
-*Company*: CODETECH IT SOLUTIONS
-
-*Name*: Rohit Kumar
-
-*Intern ID*: CT12WC98
-
-*Domain*: Mern Stack Web Development
-
-*Duration*: 12 weeks
-
-*Mentor*: Neela Santosh
-
-This real-time collaborative code editor application, built with React, Express, and Socket.io, enables multiple users to join rooms and edit code together with seamless live synchronization. It incorporates user authentication features, allowing for secure signup and login processes. The application supports distinct rooms for separate collaborative sessions, enhancing organization and teamwork. Additionally, it includes code execution capabilities, making it a versatile tool for developers. With a responsive and user-friendly interface, this application aims to provide an efficient and engaging coding experience for users.
-
-## Features
-
-- Real-time collaborative code editing with multiple users
-- User authentication (signup and login)
-- Rooms for separate collaborative sessions
-- Code execution support
-- Responsive and user-friendly interface
-
 ## Installation
 
 1. Clone the repository:
